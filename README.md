@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1692239914~exp=1692240514~hmac=ab3fab0d5d17e2cde769d5295f74d9a3cc9a8913998c9c66625bd349b51c2e36">
 
 
-# 💫 About Me:
+# 💫 Bruno Félix:
 - 👨‍🎓 Graduando em Sistemas de Informação na Universidade Federal Rural da Amazônia..<br>
 - ☕ Estudando desenvolvimento backend Java.<bzzr>
 - 🌐 Gosto muito de trocar ideias e fazer network .😀<br>
@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bruno.felix.si) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunofelix-dev/) 
 
 
-# 💻 Tech Stack:
+## 💻 Tecnologias:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
@@ -28,7 +28,7 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFelixDeSousa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrunoFelixDeSousa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoFelixDeSousa&theme=dark&hide_border=false)<br/>
 

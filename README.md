@@ -2,12 +2,24 @@
 
 
 # 💫 Bruno Félix:
-- 👨‍🎓 Graduando em Sistemas de Informação na Universidade Federal Rural da Amazônia..<br>
-- ☕ Estudando desenvolvimento backend Java.<bzzr>
-- 🌐 Gosto muito de trocar ideias e fazer network .😀<br>
-- 💻 Buscando transição de carreira 📈<br>
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+🎓 Estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia.
 
+💻 Buscando uma carreira em desenvolvimento Fullstack Java com paixão por resolver problemas complexos e criar soluções de software inovadoras.
+
+🚀 Comprometido em aprender continuamente, explorar novas tecnologias e colaborar em projetos desafiadores.
+
+🌐 Aberto a oportunidades de estágio e conexões profissionais.
+
+📚 Educação:
+ - Graduando em Sistemas de Informação na Universidade Federal Rural da Amazônia
+
+📩 Entre em contato:
+ - E-mail: brunofelixdesousa@hotmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/brunofelix-dev
+🔗 Github: https://github.com/BrunoFelixDeSousa
+
+Vamos trabalhar juntos para alcançar grandes conquistas!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bruno.felix.si) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunofelix-dev/) 

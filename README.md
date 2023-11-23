@@ -38,7 +38,4 @@ Vamos trabalhar juntos para alcançar grandes conquistas!
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFelixDeSousa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 

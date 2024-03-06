@@ -2,31 +2,35 @@
 
 
 # 💫 Bruno Félix:
-🎓 Estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia.
 
-💻 Buscando uma carreira em desenvolvimento Fullstack Java com paixão por resolver problemas complexos e criar soluções de software inovadoras.
+🚀 Olá! Eu sou Bruno Félix de Sousa, um entusiasta do código em constante busca pela fusão entre paixão e profissão.
 
-🚀 Comprometido em aprender continuamente, explorar novas tecnologias e colaborar em projetos desafiadores.
+🌌 Em meio aos bits e bytes, trilho meu caminho como estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia.
 
-🌐 Aberto a oportunidades de estágio e conexões profissionais.
+💡 Meu propósito vai além de simplesmente programar. Busco metamorfoses na tecnologia, evoluindo de um iniciante audacioso para um arquiteto de soluções inovadoras. Movido por uma curiosidade insaciável, estou determinado a transcender as linhas de código e criar experiências extraordinárias.
 
-📚 Educação:
- - Graduando em Sistemas de Informação na Universidade Federal Rural da Amazônia
+🚧 Comprometido com desafios que inspiram crescimento, estou prontíssimo para atravessar os estágios de aprendizado, marcando cada progresso de júnior a especialista, esculpindo meu caminho na engenharia de software.
 
-📩 Entre em contato:
- - E-mail: brunofelixdesousa@hotmail.com
+🌍 Além do código, meu coração palpita pelo mundo do open source, onde as possibilidades são tão vastas quanto o próprio universo digital. Com visão empreendedora, as estradas do futuro se abrem diante de mim.
 
-🔗 LinkedIn: https://www.linkedin.com/in/brunofelix-dev
-<br>
-🔗 Github: https://github.com/BrunoFelixDeSousa
 
-Vamos trabalhar juntos para alcançar grandes conquistas!
+### 🎯 Metas Pessoais:
 
-## 🌐 Socials:
+✔️ Iniciante → Júnior → Pleno → Sênior → Especialista.
+
+
+### 📩 Entre em contato:
+
+🔗 E-mail: brunofelixdesousa@hotmail.com.
+🔗 LinkedIn: https://www.linkedin.com/in/brunofelix-dev.
+
+Se você também acredita que a tecnologia é uma forma de arte, e não apenas uma ciência, vamos explorar juntos esse universo de possibilidades! Estou ansioso para conectar-me e colaborar em projetos que transcendem o convencional. 🌟🖥️
+
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bruno.felix.si) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunofelix-dev/) 
 
 
-## 💻 Tecnologias:
+### 💻 Tecnologias:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)

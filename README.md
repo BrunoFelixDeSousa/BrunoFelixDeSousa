@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/BrunoFelixDeSousa/BrunoFelixDeSousa/assets/79954751/5b0a8426-34e1-4d26-bfdc-9592c8cd381c" alt="coding-freak" style="width: 400px;">
-
 <h1 style="border-bottom: none;">Bruno Félix</h1>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=E0234E&labelColor=black&color=black)](https://brunofelixdesousa.github.io/bruno-felix-portfolio/)(Em desenvolvimento)

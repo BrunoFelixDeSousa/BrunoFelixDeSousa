@@ -1,6 +1,7 @@
 <h1 style="border-bottom: none;">Bruno Félix</h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=E0234E&labelColor=black&color=black)](https://brunofelixdesousa.github.io/bruno-felix-portfolio/)(Em desenvolvimento)
+
+👉 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=E0234E&labelColor=black&color=black)](https://brunofelixdesousa.github.io/bruno-felix-portfolio/) - em desenvolvimento
 
 
 🚀 Entusiasta do código em busca da fusão entre paixão e profissão.
@@ -20,7 +21,7 @@
 ## Contato:
 
 🔗 E-mail: brunofelixdesousa@hotmail.com. </br>
-🔗 [LinkedIn](https://www.linkedin.com/in/brunofelix-dev)
+🔗 LinkedIn: [brunofelix-dev](https://www.linkedin.com/in/brunofelix-dev)
 
 Se você também acredita que a tecnologia é uma forma de arte, e não apenas uma ciência, vamos explorar juntos esse universo de possibilidades! 🌟🖥️
 
@@ -37,12 +38,12 @@ Se você também acredita que a tecnologia é uma forma de arte, e não apenas u
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=black)
 ![Spring](https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=36DB33F&labelColor=black&color=black) 
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white&labelColor=black&color=black)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=white&labelColor=black&color=black) 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-black.svg?style=for-the-badge&logo=Thymeleaf&logoColor=4AB131&labelColor=black&color=black)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=ED6014&labelColor=black&color=black) 
 
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=black&color=black) 
 ![Postgres](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=black&color=black) 
-![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black&color=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=14D921&labelColor=black&color=black) 
 
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white&labelColor=black&color=black)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=EA910A)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FE9900&labelColor=black&color=black)

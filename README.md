@@ -1,7 +1,9 @@
-<h1 style="border-bottom: none;">Bruno Félix</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d5bce&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=4D5BCE&center=true&vCenter=true&random=false&width=1000&lines=Hi+all%2C+I+am+Bruno+F%C3%A9lix;Full-stack+developer;Be+Welcome!)](https://git.io/typing-svg)
 
 
-👉 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=E0234E&labelColor=black&color=black)](https://brunofelixdesousa.github.io/bruno-felix-portfolio/) - em desenvolvimento
+👉 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=E0234E&labelColor=black&color=black)](https://brunofelixdesousa.github.io/bruno-felix-portfolio/)👈 - em desenvolvimento
 
 
 🚀 Entusiasta do código em busca da fusão entre paixão e profissão.
@@ -20,7 +22,7 @@
 
 ## Contato:
 
-🔗 E-mail: brunofelixdesousa@hotmail.com. </br>
+🔗 E-mail: brunofelixdesousa@hotmail.com </br>
 🔗 LinkedIn: [brunofelix-dev](https://www.linkedin.com/in/brunofelix-dev)
 
 Se você também acredita que a tecnologia é uma forma de arte, e não apenas uma ciência, vamos explorar juntos esse universo de possibilidades! 🌟🖥️
@@ -47,3 +49,6 @@ Se você também acredita que a tecnologia é uma forma de arte, e não apenas u
 
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=EA910A)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FE9900&labelColor=black&color=black)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d5bce&height=120&section=footer"/>

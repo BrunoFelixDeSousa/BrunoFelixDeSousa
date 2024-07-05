@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d5bce&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=4D5BCE&center=true&vCenter=true&random=false&width=1000&lines=Hi+all%2C+I+am+Bruno+F%C3%A9lix;Full-stack+developer;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=4D5BCE&center=true&vCenter=true&random=false&width=1000&lines=Olá+a+todos%2C+Eu+sou+Bruno+F%C3%A9lix;Desenvolvedor+Fullstack;Seja+Bem-vindo+ao+meu+Github!)](https://git.io/typing-svg)
 
 
 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=E0234E&labelColor=black&color=black)](https://brunofelixdesousa.github.io/bruno-felix-portfolio/)👈 - em desenvolvimento

@@ -18,7 +18,7 @@
 
 ## Metas Pessoais:
 
-✅Dev Iniciante → ☑️Dev Júnior → ☑️Dev Pleno → ☑️Dev Sênior → ☑️Dev Especialista.
+✅Dev Estagiário → ✅Dev Trainee → ☑️Dev Júnior → ☑️Dev Pleno → ☑️Dev Sênior → ☑️Dev Especialista.
 
 ## Contato:
 

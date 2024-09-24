@@ -6,8 +6,6 @@
 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=E0234E&labelColor=black&color=black)](https://brunofelixdesousa.github.io/bruno-felix-portfolio/)👈 - em desenvolvimento
 
 
-🚀 Entusiasta do código em busca da fusão entre paixão e profissão.
-
 🌌 Estudante de Sistemas de Informação na UFRA.
 
 💡 Busco metamorfoses na tecnologia, evoluindo de um iniciante audacioso para um arquiteto de soluções inovadoras.

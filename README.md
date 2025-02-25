@@ -5,25 +5,18 @@
 
 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=E0234E&labelColor=black&color=black)](https://brunofelixdesousa.github.io/bruno-felix-portfolio/)👈 - em desenvolvimento
 
+🎓 **Estudante de Sistemas de Informação | UFRA**  
 
-🌌 Estudante de Sistemas de Informação na UFRA.
+💡 Apaixonado por tecnologia, em constante evolução para criar soluções inovadoras.  
+🚀 Focado em transformar código em experiências impactantes.  
+📈 Determinado a crescer na carreira, do estágio à especialização.  
 
-💡 Busco metamorfoses na tecnologia, evoluindo de um iniciante audacioso para um arquiteto de soluções inovadoras.
+### **Metas Profissionais:**  
+✅ Estagiário → ✅ Trainee → ☑️ Júnior → ☑️ Pleno → ☑️ Sênior → ☑️ Especialista  
 
-🚧 Determinado a transcender as linhas de código e criar experiências extraordinárias.
-
-🌍 Comprometido com desafios que inspiram crescimento, marcando cada progresso de júnior a especialista.
-
-## Metas Pessoais:
-
-✅Dev Estagiário → ✅Dev Trainee → ☑️Dev Júnior → ☑️Dev Pleno → ☑️Dev Sênior → ☑️Dev Especialista.
-
-## Contato:
-
-🔗 E-mail: brunofelixdesousa@hotmail.com </br>
-🔗 LinkedIn: [brunofelix-dev](https://www.linkedin.com/in/brunofelix-dev)
-
-Se você também acredita que a tecnologia é uma forma de arte, e não apenas uma ciência, vamos explorar juntos esse universo de possibilidades! 🌟🖥️
+### **Contato:**  
+📩 brunofelixdesousa@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/brunofelix-dev)  
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&labelColor=black&color=black)](https://linkedin.com/in/brunofelix-dev/) 

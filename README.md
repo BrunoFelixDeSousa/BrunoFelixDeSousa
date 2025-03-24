@@ -27,7 +27,8 @@
   </a>
 </p>
 
-<!-- <div align="center">
+<!-- 
+<div align="center">
   <h3>Projetos Destacados</h3>
   <a href="URL_DO_PROJETO_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunofelix-dev&repo=NOME_DO_REPO_1&theme=tokyonight" />
@@ -35,7 +36,8 @@
   <a href="URL_DO_PROJETO_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunofelix-dev&repo=NOME_DO_REPO_2&theme=tokyonight" />
   </a>
-</div> -->
+</div>
+-->
 
 <div align="center">
   <h3>Tecnologias:</h3>
@@ -44,10 +46,14 @@
   </a>
 </div>
 
+<!--
 <div align="center">
   <h3>GitHub Stats</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoFelixDeSousa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoFelixDeSousa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFelixDeSousa&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFelixDeSousa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+-->
 
 <div align="center">
   <h3>Certificações</h3>

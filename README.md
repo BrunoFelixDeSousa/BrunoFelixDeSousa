@@ -20,10 +20,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/brunofelix-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=1" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=1" />
   </a>
   <a href="mailto:brunofelixdesousa@hotmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=1" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light&perline=1" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 <div align="center">
   <h3>Tecnologias:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring,maven,react,nextjs,postgres,mysql,mongo,&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring,hibernate,maven,react,nextjs,ts,postgres,mysql,mongo&theme=light&perline=15" />
   </a>
 </div>
 

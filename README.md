@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>Metas Profissionais</h3>
-  <p>✅ Estagiário → ✅ Trainee → ☑️ Júnior → ☑️ Pleno → ☑️ Sênior → ☑️ Especialista</p>
+  <p>✅ Estagiário → ✅ Trainee → ✅ Júnior → ☑️ Pleno → ☑️ Sênior → ☑️ Especialista</p>
 </div>
 
 <h3 align="center";>Contatos:</h3>

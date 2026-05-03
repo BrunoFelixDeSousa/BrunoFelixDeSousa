@@ -32,14 +32,14 @@ Interesses principais:
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,express)
 
-### Frontend (experiência atual)
+### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,vue,nextjs,ts)
 
 ### Cloud & DevOps
 ![DevOps](https://skillicons.dev/icons?i=docker,aws)
 
-### Data / ML
-![ML](https://skillicons.dev/icons?i=python)
+<!-- ### Data / ML
+![ML](https://skillicons.dev/icons?i=python) -->
 
 ### Bancos de dados
 ![DB](https://skillicons.dev/icons?i=postgres,mysql,mongo)

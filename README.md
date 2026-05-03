@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=4D5BCE&center=true&vCenter=true&width=1000&lines=Bruno+Félix;Backend+Developer;Node.js+%7C+Java+%7C+Microservices+%7C+BFF)](https://git.io/typing-svg)
 
----
 
 <!-- ![Bruno Félix de Sousa](image.png) -->
 

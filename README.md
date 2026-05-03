@@ -5,15 +5,12 @@
 
 <!-- ![Bruno Félix de Sousa](image.png) -->
 
-# Sobre mim
 <p align="center">
   <img 
     src="image.png" 
     width="250"
     style="border-radius:50%;" 
   />
-  <br/>
-  <b>Bruno Félix</b>
 </p>
 Sou desenvolvedor com foco em **Backend Engineering**, atuando na construção de **APIs, BFFs e arquiteturas de microserviços** em ambiente cloud.
 

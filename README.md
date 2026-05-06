@@ -90,7 +90,7 @@ Interesses principais:
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoFelixDeSousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoFelixDeSousa&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=BrunoFelixDeSousa&theme=tokyonight&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFelixDeSousa&theme=tokyonight&hide_border=true&layout=compact"/>
 </div>
 
